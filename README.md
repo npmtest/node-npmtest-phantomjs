@@ -1,6 +1,6 @@
 # npmtest-phantomjs
 
-#### test coverage for  [phantomjs (v2.1.7)](https://github.com/Medium/phantomjs)  [![npm package](https://img.shields.io/npm/v/npmtest-phantomjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-phantomjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-phantomjs.svg)](https://travis-ci.org/npmtest/node-npmtest-phantomjs)
+#### basic test coverage for  [phantomjs (v2.1.7)](https://github.com/Medium/phantomjs)  [![npm package](https://img.shields.io/npm/v/npmtest-phantomjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-phantomjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-phantomjs.svg)](https://travis-ci.org/npmtest/node-npmtest-phantomjs)
 
 #### Headless WebKit with JS API
 
